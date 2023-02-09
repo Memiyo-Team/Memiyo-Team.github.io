@@ -1,15 +1,19 @@
 nav{
 
     background-color: black;
+    padding: 1%;
+
 
 }
 
 nav>a{
 
     color: white;
-    text-align: center;
+    text-align: right;
     font-family: 'Press Start 2P';
-    margin: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+
 
 }
 
