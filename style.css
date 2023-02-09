@@ -5,6 +5,15 @@ nav{
 
 
 }
+main>h1{
+    text-align: center;
+    color: aqua;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Sassy Frass', cursive;
+}
+main>p{
+    text-align: center;
+}
 
 nav>a{
 
